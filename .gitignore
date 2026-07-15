@@ -5,7 +5,9 @@
 /.pnp
 .pnp.js
 .yarn
-
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+.next/
 # testing
 /coverage
 
