@@ -20,7 +20,7 @@ import novapic from "./novapic.jpg";
 import pictuals from "./pictuals.png";
 import prooviaImg from "./prooviaImg.png";
 import hoobank from "./react-tailwind.png";
-import relaxImg from "./relaxImg.png";
+import relaxImg from "./relaximg.png";
 import restuImg from "./restuImg.png";	
 import ropstamImg from "./ropstamImg.png";
 import android from "./tech/android.png";
