@@ -22,7 +22,7 @@ import prooviaImg from "./prooviaImg.png";
 import hoobank from "./react-tailwind.png";
 import relaxImg from "./relaxImg.png";
 import restuImg from "./restuImg.png";	
-import ropstamImg from "./ropstamimg.png";
+import ropstamImg from "./ropstamImg.png";
 import android from "./tech/android.png";
 import aws from "./tech/aws.png";
 import css from "./tech/css.png";
