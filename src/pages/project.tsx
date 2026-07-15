@@ -4,8 +4,7 @@ import {useEffect} from "react";
 import {IconContext} from "react-icons";
 import {FiArrowLeft} from "react-icons/fi";
 
-import {projects} from "../../../../Documents/portfolio-main/src/constants";
-import {styles} from "../../../../Documents/portfolio-main/src/styles";
+import {projects} from "../components/Sections/common/constants";
 
 export default function project() {
 
@@ -28,7 +27,7 @@ const router = useRouter();
 		<div className="relative z-0 bg-primary">
 			<div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
 				<div
-					className={`mx-auto h-full w-full ${styles.padding} max-w-7xl mx-auto relative z-0`}
+					className="mx-auto h-full w-full max-w-7xl mx-auto relative z-0"
 				>
 					<div>
 						<div className="flex flex-row items-center">
