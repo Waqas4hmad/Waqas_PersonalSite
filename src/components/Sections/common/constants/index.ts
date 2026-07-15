@@ -458,7 +458,6 @@ Performance optimization techniques for modern web apps`,
 
 		],
 		image: prooviaImg,
-		// source_code_link: "https://github.com/johnnithin08/react-movie-app",
 		live_link: "https://play.google.com/store/apps/details?id=uk.co.proovia.couriers&hl=en_GB&pli=1",
 	},
 	{
