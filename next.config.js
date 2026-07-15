@@ -1,10 +1,8 @@
-/** @type {import('next').NextConfig} */
+
 const nextConfig = {
-  reactStrictMode: true
-};
-
-module.exports = nextConfig;
-
-images: {
-  unoptimized: true
+  output: 'export', // This generates pure static files
+  trailingSlash: true,
+  images: { unoptimized: true } // Required for static hosting
 }
+
+module.exports = nextConfig
