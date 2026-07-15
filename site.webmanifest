@@ -1,0 +1,11 @@
+{
+  "name": "Waqas Portfolio",
+  "short_name": "Waqas Portfolio",
+  "icons": [
+    {"src": "/logo.png", "type": "image/png", "sizes": "192x192"},
+    {"src": "/logo.png", "type": "image/png", "sizes": "512x512"}
+  ],
+  "theme_color": "#515455",
+  "background_color": "#515455",
+  "display": "standalone"
+}
